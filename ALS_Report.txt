@@ -1,0 +1,551 @@
+1
+
+An Experiment about Factors Involved in a Catapult Design
+Project Engineering - Group 10
+Project Engineering Report
+11/11/2022
+Word Count: 1643
+
+2
+
+Table of contents
+Abstract……………………………………………………………………………………….3
+Introduction…………………………………………………………………………………...4
+Literature review………………………………………………………………….…………..4
+Methodology………………………………………………………………………………….5
+Results………………………………………………………………………………….……..7
+Discussion……………………………………………………………………………..……....9
+Conclusion……………………………………………………………………………..…….12
+References…………………………………………………………………………..………..12
+Appendix……………………………………………………………………………..………14
+
+3
+
+An Experiment about Factors Involved in a Catapult Design
+Abstract
+The present study experimented with physics and math involved in catapults by
+building and analyzing a Mangonel Catapult of volume 21000cm3. The Literature Review
+discusses different designs that may qualify as a Mangonel Catapult. Also, the energy
+transformed during a projectile motion and the tension applied by rubber bands were
+investigated so that the projectile achieves a long distance after launch. Moreover, different
+attempts were made to analyze the most efficient launching angle, which led to the
+conclusion that when the launch is made from 70°, the distance traveled can be maximized.
+Furthermore, the projectile's initial velocity, which is the same as the arm's final velocity,
+must be high, considering inertia, so that the objectives regarding distance traveled can be
+achieved. This requirement could be met through high tension applied by rubber bands and
+an optimal draw-back angle of the arm. Overall, this process was crucial for the authors to
+reflect on topics such as circular motion, projectile motion, and energy transformation in reallife situations.
+
+4
+
+Introduction
+The usage of catapults has had a significant change in the past centuries. Catapults
+were first used by the Greek people during the 3rd century before Christ to fire missiles at
+castles and conquer land (Chakraborti and Chakrabarti, 2022). Since then, catapults have
+been replaced by modern technology, but they are still used by engineers to study forces,
+energy transformation, and projectile motion (Güner, T., 2013). This report aims to analyze
+the physics and math involved in a catapult and translate these aspects into a popsicle stick
+model. Through this analysis, the chosen design of the catapult will allow the Malteser to
+travel an average horizontal distance of 4.95m by maximizing the initial velocity. This will be
+possible by applying a force of 8.87N on the arm, launching at an angle of 70°, and drawing
+back the arm by 125°. In summary, the force applied to the catapult, the drawback and
+launching angle, and the initial velocity will directly impact the total distance traveled by the
+projectile.
+Literature Review
+In general, the engineering involved in catapults includes tension, torsion, and
+gravity, which are used differently to launch projectiles. Some types of catapults are
+Trebuchet, Ballista, and Mangonel (Chakraborti and Chakrabarti, 2022). Concerning
+Mangonel catapults, there are conflicts between researchers regarding what qualifies a
+catapult as a Mangonel. Hassaan’s (2014) study claims that a Mangonel is an Arabic
+Trebuchet catapult, which has a system that consists of ropes, a pulley, and a gear train.
+Contrastingly, the research done by Neel and Hardin (2015) emphasizes that it is a siege
+catapult from medieval times, which relies on torque applied by twisted ropes. Oxford
+Science’s (2016) study expands on this idea and explains that tension is applied to the arm
+through a pulling force in the opposite direction of motion, which is caused by a stretched
+
+5
+
+rope. Additionally, Cove Editions (n.d.) states that the launch angle of the projectile could be
+changed by moving the cross beam nearer to or further away from the launching arm. In
+general, the second design is more commonly accepted as a Mangonel catapult.
+Methodology
+The requirements for the construction of the catapult were that it must fit in the
+dimensions 30cm x 30cm x 30cm, and it should be able to launch the projectile more than
+once without collapsing. Also, it needed an attached trigger that did not increase the force
+applied to the projectile. Finally, it had to launch a Malteser as far as possible and the
+spendings should be low.
+In light of this, specific materials were chosen to meet these requirements. First, to
+build the catapult shown in Figure 1 and Figure 2, popsicle sticks were picked, as they are
+sturdier than cardboard and easier to manage, increasing the overall support strength of the
+body. Furthermore, elastic bands were used, as they have a high elastic potential energy,
+which can make the net force added to the projectile larger. These help achieve longer
+distances, which is the project's main objective. Whereas, for the trigger, the best choice
+acknowledged was strings, as they are easy to manipulate and do not add any force to the
+projectile. Also, hot glue was chosen to join the whole structure as it could withstand the
+applied pressure and made the process easier regarding aligning the joints of the frame.
+Lastly, a small bottle lid was selected as the catapult bucket, because it would minimalize air
+resistance, thus reducing opposing forces. At last, the lid’s walls would prevent the Malteser
+from falling out before the launch.
+Apart from the materials used, the design chosen is intended to meet the requirements
+and achieve long distances. Firstly, the triangular shape facilitates better stability across the
+prototype and distributes the forces evenly. Secondly, the original launch angle was 45°, as
+
+6
+
+this is an optimal launch angle for a greater distance to be traveled in a perfect system
+(Tsokos, 2014, pg. 50). However, through trial and error, it was found that 70° is the best
+launch angle. Additionally, using circular motion, it was deduced that having a long arm
+drawn back by a larger angle would lead to a maximized tangential velocity (Tsokos, 2014,
+pg. 249). Finally, three rubber bands were added to the structure as a form of adding force in
+the direction of the launch. Two were twisted and stretched between the posts of the frame to
+serve as a pivot, while the third band was stretched between the main frame and the launch
+arm, thus drawing the arm towards the crossbeam.
+This design exploits the transformation of energy involved in the launch of a
+projectile. Firstly, when the arm is cocked, there is elastic potential energy stored in the
+twisted and stretched rubber bands. After the trigger is pulled, there will be potential and
+kinetic energy in the arm and the projectile. When the arm hits the crossbeam, some energy is
+converted into sound and heat, while the projectile maintains its energy. During the launch,
+the projectile experiences potential and kinetic energy, until it hits the ground. This is
+considered the end point of the motion observed, however, it is important to emphasize that
+when the projectile hits the ground, it will still have kinetic energy, as it carries on moving.
+All in all, elastic energy was transformed into kinetic energy to allow the projectile to move
+and achieve maximum distances. ￼
+F i g u r e 1
+Catapult in its relaxed position
+
+F i g u r e 2
+Cocked catapult
+
+7
+
+Results
+The catapult was tested three times, and by filming and observing it, the results presented in
+Table 1 could be found. The average distance traveled by the projectile was 4.59 m.
+Moreover, the projectile motion was depicted in Figure 3 by using the values from the table
+mentioned. Also, Figure 4, Figure 5, Figure 6, and Figure 7 present free-body diagrams of the
+forces acting on the projectile during different stages of the motion.
+Table 1
+Results of the launch of the catapult
+Launch
+number
+
+Max height
+(m)
+
+Distance travelled
+(m)
+
+Time spent in air
+(s)
+
+Initial velocity
+(m/s)
+
+1
+
+1.68
+
+4.93
+
+1.00
+
+7.21
+
+2
+
+1.79
+
+4.56
+
+1.26
+
+6.55
+
+3
+
+0.980
+
+4.27
+
+0.700
+
+7.10
+
+Average
+
+1.48
+
+4.59
+
+1.03
+
+6.95
+
+F i g u r e 3
+Graph representing the projectiles motion
+
+Change in vertical distance (m)
+
+y
+
+f(x)
+x
+Change in horizontal distance (m)
+
+8
+
+F i g u r e 4
+Free body diagram of the forces acting on the Malteser as the launch arm is cocked
+
+R
+
+R = Normal force
+W = weight
+
+W
+45
+
+F i g u r e 5
+Free body diagram of the forces acting on the Malteser just before the launch arm hits the
+crossbeam
+
+R
+Fa = Force of arm on the Malteser
+Ff
+
+W
+
+Ff = Air friction force
+W = weight
+
+70
+
+9
+
+F i g u r e 6
+Free body diagram of the forces acting on the Malteser when it reaches maximum height
+Ff
+
+W
+
+Ff = Air friction
+W = weight
+
+F i g u r e 7
+Free body diagram of the forces acting on the Malteser once it has landed
+R = Normal force
+R
+W= weight
+W
+
+Discussion
+Before the catapult was built, the launch results were predicted. These results were acquired
+by assuming that the time it takes the launch arm to complete a full rotation is 0.2s and that
+the length of a popsicle stick is around 11.4cm. For the projectile’s motion, the height of the
+arm was ignored, therefore the projectile’s vertical displacement is zero and it moves in a
+perfect parabolic arc. In addition, air friction (Ff) was ignored. This is because Ff = kv, where
+“k” stands for a constant determined by the surface area in contact with the air and “v” is the
+
+10
+
+velocity, and in this case both k and v are very small. All formulas are from Binas (2016) in
+sections 35A 1, 2, and 3. The directions of the vectors are indicated in Figure 8.
+The initial velocity of the projectile:
+
+𝒗𝑡 =
+
+2𝜋𝑟
+𝑇
+
+𝒗𝑡 = 3.581415625 m.s-1
+Due to inertia 𝒗𝑡 = 𝒗𝑖 of the projectile so 𝒗𝑖 = 3.581415625 m.s-1
+Maximum height reached by the projectile:
+At max height 𝒗𝑓 = 0
+𝒗𝑓 2 = 𝒗𝑖𝑦 2 + 2𝒂∆𝒚 (Tsokos, 2014, p. 40)
+∆𝒚 = 0.326874054 m
+Distance travelled by projectile:
+Since projectiles move in a parabolic motion with a starting height of 0m, the time it takes the
+projectile to land (t2) is double the amount of time it takes to reach maximum height (t1).
+F i g u r e 8
+Figure depicting the direction and extra information of the vectors
+Maximum height (∆𝒚) with a final velocity (𝒗𝑓 ) of
+0m.s-1
+y
+
++
+
+Gravitational acceleration (𝒂)
+
+Initial velocity (𝒗𝑖 )
+
+-
+
+45°
+………
+
+Final position (∆𝒙)
+
+𝑡1
+
+x
+
+𝑡2
+
++
+
+11
+
+𝒗𝑓 = 𝒗𝑖𝑦 + 𝒂𝑡1
+𝑡1 =
+
+𝒗𝑖 sin 45°
+9.81
+
+𝑡2 = 2𝑡1
+𝑡2 = 0.5162960706 s
+∆𝒙 = 𝒗𝑖𝑥 𝑡2
+∆𝒙 = 𝒗𝑖 cos 45° 𝑡2
+∆𝒙 = 1.307490512 m ≈ 1.31 m.
+After analyzing three different launches, it was concluded that the average distance
+travelled by the Malteser was 4.95m, which exceeded the expectations from the thesis. It is
+important to emphasize that because of the different conditions between reality and a perfect
+system, the mathematical hypothesis differed from the actual results. Additionally, the launch
+angle and initial height of the actual project differed from the hypothetical model. The launch
+arm was drawn-back to –55°, which is the maximum angle it could be pulled back without
+the projectile falling. Even though hypothetically 45° is the best launching angle, as stated
+before, launching it from 70° allowed a greater rotation of the arm from the initial position,
+which increases the initial velocity. Human error should also be considered since it affects the
+exact values of the results.
+Overall, all the design factors allowed an increase in force and initial velocity, which
+impacted the total distance travelled, making the projectile go further. Through analysis of
+the launch, it was concluded that the draw-back angle is the most crucial point to attain the
+maximum distances the projectile will reach on the x-axis and y-axis. According to an
+experiment made by Science Oxford (2016), the arm’s draw-back angle is the main aspect
+that influences the distance travelled and the height reached by the projectile.
+
+12
+
+These results could be even greater; however, some requirements and limitations had
+to be met while the catapult was built. One of the limitations was the tension acting in the
+catapult. In other words, as the catapult should be able to launch the projectile more than once
+without collapsing, the force applied was limited. Moreover, the dimensions of the system are
+restricted, which affects the initial height. Also, with constrained time, few attempts could be
+made, limiting the improvement of the project by trial and error. Another limitation is that
+there is minimal research surrounding catapults built with popsicle sticks, which restricts the
+authors’ knowledge about the advantages and disadvantages of this design.
+Conclusion
+Summarily, the design of the catapult manipulated force, energy conserved, and
+launch angle to maximize the horizontal distance traveled by the projectile. This distance was
+4.95 m. Additionally, it was concluded that the drawback angle of the arm plays a vital role in
+the total distance that the projectile can reach by increasing the tension applied by the rubber
+bands, since they are being more stretched, and increasing the tangential velocity. It is
+recommended, for future analysis, to reconsider building a popsicle stick catapult, since there
+is little academic research about it. Furthermore, rubber bands could be added at the top of
+the arm to increase the traveled distance. Overall, building and analyzing a catapult leads to
+an enriched understanding of engineering studies by applying physics and math formulas to
+real-life situations and manipulating numbers to have positive outcomes.
+References
+Browne, W. R., (2016). Binas, English Edition. (1st ed.). Noordhoff Uitgevers
+Chakraborti, G., Chakrabarti, S. (2022). Mechanical engineering in ancient ages – how
+
+13
+
+innovative technologies were enhanced by violence and warfare leading to
+imperialism. Institute of Engineering & Management D1 Salt Lake Electronics
+Complex 2460(02004), 1-4. https://doi.org/10.1063/5.0116154
+Cove. (n.d.). The onager mangonel catapult. Cove.
+https://editions.covecollective.org/chronologies/onager-mangonel-catapult
+Güner, T. (2013). Amazing physics: learning about work, energy and projectile motion in a
+historical context. Physics Education, 48(3), 38-341
+https://iopscience.iop.org/article/10.1088/0031-9120/48/3/336/meta
+Hassan, G. A., (2014) Innovation of mechanical machinery in medieval centuries part vi:
+operation of the 4th century CE Roman artillery engine known as the Onager.
+American Society for Engineering Education, 1-21.
+https://www.semanticscholar.org/paper/Innovation-of-Mechanical-Machinery-inMedieval-%2C-VI-Hassaan/94b5097ef86da78fc937110421f6d1506e0470eb
+Neel, W. W., Hardin, J. (2015) A multidisciplinary re-evaluation of the fabrication and
+non-traditional weapons. International Journal of Advanced Research in Computer
+Science & Technology, 2(4), 190-198. https://doi.org/10.18260/p.23411
+Science Oxford. (2016) Catapult engineering. Science Oxfrod.
+https://scienceoxford.com/wp-content/uploads/2016/03/3.-Catapult-Engineering.pdf
+Sunday Academy. (2018). Hypothesis and product testing rubber band write up, ndepscorI.
+https://www.ndepscor.ndus.edu/fileadmin/ndus/ndepscor/SundayAcademy/201819SAHypothesisAndProductTestingRubberBandWriteUp.pdf
+
+14
+
+Tsokos, K. A. (2014). Physics for the IB Diploma. (6th ed.). Cambridge University Press
+Appendix
+Full mathematical hypothesis working out
+Assume that spring constant of a band is 38.8 N.m-1 (Sunday Academy, 2018, pg3),
+that it takes 0.05 seconds for the launch arm to hit the cross-beam (travel 90°) once it is
+released, therefore taking 0.2 seconds to complete 1 rotation, the length of a popsicle stick is
+around 11.4cm, and that the change in distance for both the twisted and the stretched rubber
+band is 22.85cm. For the projectile motion, ignore the height of the arm. Therefore, the
+projectile’s vertical displacement is zero and it moves in a perfect parabolic arc. All formulas
+are taken from the Binas (2016) in sections 35A 1, 2 and 3. The directions of the vectors are
+indicated in Figure 6
+Force of the rubber bands:
+𝑭 = 𝑘𝚫𝒙
+𝑭 = 38.8 × 22.85 × 10−2
+𝑭 = 8.8658 N towards the crossbeam
+There are two bands therefore the net force is 17.7316 N towards the crossbeam:
+𝒗𝑡 =
+
+2𝜋𝑟
+𝑇
+
+2𝜋(11.4 × 10−2 )
+𝒗𝑡 =
+0.2
+𝒗𝑡 = 3.581415625 m.s-1
+Due to inertia 𝒗𝑡 = 𝒗𝑖 of the projectile so 𝒗𝑖 = 3.581415625 m.s-1
+Maximum height reached by the projectile:
+At max height 𝒗𝑓 = 0
+𝒗𝑓 2 = 𝒗𝑖𝑦 2 + 2𝒂∆𝒚
+0 = (𝒗𝑖 sin 45°)2 + 2𝒂∆𝒚
+0 = (3.581415625 sin 45°)2 + 2(−9.81)∆𝒚
+∆𝒚 = 0.326874054 m
+
+(Tsokos, 2014, p. 40)
+
+Distance travelled by projectile:
+Since projectiles move in a parabolic motion, the time it takes the projectile to land (t2) is
+double the amount of time it takes to reach maximum height (t1)
+𝒗𝑓 = 𝒗𝑖𝑦 + 𝒂𝑡
+0 = 𝒗𝑖𝑦 − 9.81𝑡1
+
+15
+
+𝑡1 =
+
+𝒗𝑖 sin 45°
+9.81
+
+𝑡2 = 2𝑡1
+𝑡2 =
+
+2(𝒗𝑖 sin 45°)
+9.81
+
+𝑡2 =
+
+2(3.581415625 sin 45°)
+9.81
+
+𝑡2 = 0.5162960706 s
+∆𝒙 = 𝒗𝑖𝑥 𝑡2
+∆𝒙 = 𝒗𝑖 cos 45° 𝑡2
+∆𝒙 = 3.581415625 cos 45° × 0.5162960706
+∆𝒙 = 1.307490512 m ≈ 1.31 m
+
+F i g u r e 9
+Graph representing the relationship between the vertical distance travelled by the projectile
+and time for multiple launches
+x
+
+Horizontal distance travelled (m)
+
+g(x) is the red graph and represents the
+first launch results
+h(x) is the blue graph and represents
+the second launch results
+i(x) is the green graph and represent
+the third launch results
+j(x) is the purple graph and it represents
+the average result of all the launches
+y
+Time (s)
+
+16
+
+F i g u r e 10
+Graph representing the relationship between the vertical distance travelled by the projectile
+and time
+
+k(x) is the red graph and represents
+the first launch results
+
+Vertical distance (m)
+
+l(x) is the blue graph and represents
+the second launch results
+m(x) is the green graph and
+represent the third launch results
+n(x) is the purple graph and it
+represents the average result of all
+the launches
+
+Time (s)
+
+F i g u r e 11
+Graph comparing the hypothetical distances travelled to the actual distances travelled
+5
+4,5
+
+Distance travelled (m)
+
+4
+3,5
+3
+2,5
+2
+1,5
+1
+0,5
+0
+Vertical plane
+Hypothetical results
+
+Horizontal plane
+Actual results
+
+17
+
+Full calculation of the equation of the projectile
+By plotting values from the Graph 2 and Graph 3, both based on time, the following
+results can be observed.
+Table 2
+The results of specific points of Figure 9 and Figure 10
+Time (s)
+0.000
+0.200
+0.400
+0.600
+0.800
+1.00
+
+Distance in X- axis (m)
+0.000
+0.878
+1.76
+2.63
+3.51
+4.40
+
+Distance in Y-axis (m)
+0.275
+1.05
+1.43
+1.43
+1.03
+0.230
+
+For the projectile motion, the equation considered must be 𝑦 = 𝑎𝑥 2 + 𝑏𝑥 + 𝑐, since it
+represents a parabola.
+By applying values from the chart:
+For x=0.000: y = c = 0.275
+For t = 1.000 s:
+0.230 = 𝑎(4.400)2 + 4.400𝑏 + 0.275
+For t = 0.2000 s:
+1.051 = 𝑎(0.878)2 + 0.878𝑏 + 0.275
+Through a piecewise function of both equations, it can be found that a= -0.254, b= 1.106 and,
+as stated before, c= 0.275
+In the light of these, the final equation of the projectile motion is 𝑦 = 0.254𝑥 2 + 1.106𝑥 +
+0.275
+
+18
+
+F i g u r e 12
+Image representing of the launch of the projectile and the position of the projectile every 0.2
+seconds
+
+
